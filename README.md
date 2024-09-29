@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Japleen Sachdev</h1>
 <h3 align="center">A passionate Frontend/Cybersecurity developer from India</h3>
 
-<!-- Correctly embedded GIF using Markdown -->
-![coding](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-<p>via <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">GIPHY</a></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japleensachdev&label=Profile%20views&color=0e75b6&style=flat" alt="japleensachdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japleensachdev" alt="japleensachdev" /></a> </p>
@@ -23,12 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/japleensachdev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japleensachdev" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/japleen7020" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="japleen7020" height="30" width="40" />
-    </a>
+<a href="https://linkedin.com/in/japleen sachdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japleen sachdev" height="30" width="40" /></a>
+<a href="https://discord.gg/japleen7020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="japleen7020" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
